@@ -1,0 +1,260 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"gam",
+				"game_board"
+			],
+			[
+				"ga",
+				"game_board"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/andrecarvalho/workspace/valendo/gitproj/proj1"
+	],
+	"file_history":
+	[
+		"/Users/andrecarvalho/workspace/valendo/gitproj/proj1/html_css.css",
+		"/Users/andrecarvalho/workspace/valendo/gitproj/proj1/html_file1.html",
+		"/Users/andrecarvalho/workspace/valendo/mldeploy/deploying-machine-learning-models/packages/ml_api/requirements.txt",
+		"/Users/andrecarvalho/workspace/valendo/mldeploy/deploying-machine-learning-models/packages/regression_model/setup.py",
+		"/Users/andrecarvalho/workspace/valendo/mldeploy/deploying-machine-learning-models/scripts/fetch_kaggle_dataset.sh",
+		"/Users/andrecarvalho/workspace/valendo/mldeploy/deploying-machine-learning-models/packages/regression_model/regression_model/VERSION",
+		"/Users/andrecarvalho/workspace/valendo/mldeploy/deploying-machine-learning-models/packages/regression_model/requirements.txt",
+		"/Users/andrecarvalho/Downloads/kaggle.json",
+		"/Users/andrecarvalho/workspace/valendo/mldeploy/deploying-machine-learning-models/.circleci/config.yml",
+		"/Users/andrecarvalho/workspace/valendo/tutgit/tictactoe/README.md",
+		"/Users/andrecarvalho/workspace/valendo/tutgit/tictactoe/helper_functions.py",
+		"/Users/andrecarvalho/workspace/valendo/tutgit/tictactoe/game.py",
+		"/Users/andrecarvalho/workspace/valendo/tutgit/tictactoe/.gitignore",
+		"/Users/andrecarvalho/workspace/valendo/tutgit/Git-Tutorial/supporting_materials/code_snippets.py",
+		"/Users/andrecarvalho/workspace/valendo/mldeploy/deploying-machine-learning-models/packages/regression_model/tox.ini",
+		"/Users/andrecarvalho/workspace/valendo/mldeploy/deploying-machine-learning-models/packages/regression_model/regression_model/train_pipeline.py",
+		"/Users/andrecarvalho/workspace/valendo/mldeploy/deploying-machine-learning-models/packages/ml_api/api/controller.py",
+		"/Users/andrecarvalho/workspace/valendo/mldeploy/deploying-machine-learning-models/packages/ml_api/tests/test_controller.py",
+		"/Users/andrecarvalho/workspace/valendo/mldeploy/deploying-machine-learning-models/packages/regression_model/regression_model/processing/features.py",
+		"/Users/andrecarvalho/workspace/valendo/mldeploy/deploying-machine-learning-models/packages/regression_model/tests/test_predict.py",
+		"/Users/andrecarvalho/workspace/valendo/mldeploy/sandbox/my_module.py",
+		"/Users/andrecarvalho/workspace/valendo/mldeploy/sandbox/test_my_module.py",
+		"/Users/andrecarvalho/workspace/valendo/mldeploy/sandbox/conftest.py",
+		"/Users/andrecarvalho/workspace/valendo/mldeploy/sandbox/test_my_module_again.py",
+		"/Users/andrecarvalho/workspace/valendo/mldeploy/sandbox/tox.ini",
+		"/Users/andrecarvalho/workspace/valendo/mldeploy/my_module.py",
+		"/Users/andrecarvalho/workspace/valendo/mldeploy/test_my_module.py",
+		"/Users/andrecarvalho/workspace/valendo/mldeploy/deploying-machine-learning-models/packages/ml_api/tests/conftest.py",
+		"/Users/andrecarvalho/workspace/valendo/bigdata/resources/spark/dataframe-dataset/students.txt",
+		"/Users/andrecarvalho/workspace/valendo/projectnlp/books.py",
+		"/Users/andrecarvalho/workspace/valendo/dunderdatavisualization/Build_an_Interactive_Data_Analytics_Dashboard_with_Python/project/assets/style.css",
+		"/Users/andrecarvalho/workspace/valendo/dunderdatavisualization/Build_an_Interactive_Data_Analytics_Dashboard_with_Python/project/dashboard.py",
+		"/Users/andrecarvalho/workspace/valendo/dunderdatavisualization/Build_an_Interactive_Data_Analytics_Dashboard_with_Python/notebooks/mysolutions.py",
+		"/Users/andrecarvalho/workspace/valendo/dunderdatavisualization/Build_an_Interactive_Data_Analytics_Dashboard_with_Python/project_prod/update.sh",
+		"/Users/andrecarvalho/venv/python-masterclass-remaster-shared/current-python-masterclass-remaster/oop/oop.py",
+		"/Users/andrecarvalho/venv/python-masterclass-remaster-shared/current-python-masterclass-remaster/oop/song.py",
+		"/Users/andrecarvalho/workspace/valendo/dunderdatavisualization/Build_an_Interactive_Data_Analytics_Dashboard_with_Python/project_prod/wsgi.py",
+		"/Users/andrecarvalho/workspace/valendo/dunderdatavisualization/Build_an_Interactive_Data_Analytics_Dashboard_with_Python/project_prod/dashboard.py",
+		"/Users/andrecarvalho/Desktop/Object-Oriented-Python-Artist-class-and-import-Albums-Source-code/song.py",
+		"/Users/andrecarvalho/venv/python-masterclass-remaster-shared/current-python-masterclass-remaster/FileIO/writing.py",
+		"/Users/andrecarvalho/workspace/valendo/dunderdatavisualization/Build_an_Interactive_Data_Analytics_Dashboard_with_Python/project/requirements1.txt",
+		"/Users/andrecarvalho/workspace/git/machine_learning_examples/unsupervised_class/books.py",
+		"/Users/andrecarvalho/venv/python-masterclass-remaster-shared/current-python-masterclass-remaster/FileIO/chellenger.py",
+		"/Users/andrecarvalho/venv/python-masterclass-remaster-shared/current-python-masterclass-remaster/FileIO/fileIO.py",
+		"/Users/andrecarvalho/venv/python-masterclass-remaster-shared/current-python-masterclass-remaster/FileIO/cave_initialise.py",
+		"/Users/andrecarvalho/venv/python-masterclass-remaster-shared/current-python-masterclass-remaster/FileIO/pickling.py",
+		"/Users/andrecarvalho/venv/python-masterclass-remaster-shared/current-python-masterclass-remaster/FileIO/motorcycle.py",
+		"/Users/andrecarvalho/venv/python-masterclass-remaster-shared/current-python-masterclass-remaster/FileIO/cave_game1.py",
+		"/Users/andrecarvalho/venv/python-masterclass-remaster-shared/current-python-masterclass-remaster/FileIO/cave_game.py",
+		"/Users/andrecarvalho/venv/python-masterclass-remaster-shared/current-python-masterclass-remaster/FileIO/binary.py",
+		"/Users/andrecarvalho/venv/python-masterclass-remaster-shared/current-python-masterclass-remaster/FileIO/example.py",
+		"/Users/andrecarvalho/venv/python-masterclass-remaster-shared/current-python-masterclass-remaster/FileIO/shelveexample.py",
+		"/Users/andrecarvalho/venv/python-masterclass-remaster-shared/current-python-masterclass-remaster/FileIO/recipts.py",
+		"/Users/andrecarvalho/venv/python-masterclass-remaster-shared/current-python-masterclass-remaster/FileIO/scratchpad.py",
+		"/Users/andrecarvalho/venv/python-masterclass-remaster-shared/current-python-masterclass-remaster/FileIO/lecture-70-challenge.txt",
+		"/Users/andrecarvalho/venv/python-masterclass-remaster-shared/current-python-masterclass-remaster/dictionaries/challenger2.py",
+		"/Users/andrecarvalho/venv/python-masterclass-remaster-shared/current-python-masterclass-remaster/dictionaries/dictionaries.py",
+		"/Users/andrecarvalho/venv/python-masterclass-remaster-shared/current-python-masterclass-remaster/dictionaries/challenge2_test.py",
+		"/Users/andrecarvalho/venv/python-masterclass-remaster-shared/current-python-masterclass-remaster/HelloWorld/scapechar.py",
+		"/Users/andrecarvalho/venv/python-masterclass-remaster-shared/current-python-masterclass-remaster/HelloWorld/formating.py",
+		"/Users/andrecarvalho/venv/python-masterclass-remaster-shared/current-python-masterclass-remaster/Sets/sets.py",
+		"/Users/andrecarvalho/venv/python-masterclass-remaster-shared/current-python-masterclass-remaster/HelloWorld/rep_fields.py",
+		"/Users/andrecarvalho/venv/python-masterclass-remaster-shared/current-python-masterclass-remaster/HelloWorld/sequence_operators.py",
+		"/Users/andrecarvalho/venv/python-masterclass-remaster-shared/current-python-masterclass-remaster/HelloWorld/sliceback.py",
+		"/Users/andrecarvalho/venv/python-masterclass-remaster-shared/current-python-masterclass-remaster/HelloWorld/strings.py",
+		"/Users/andrecarvalho/venv/python-masterclass-remaster-shared/current-python-masterclass-remaster/HelloWorld/strings2.py",
+		"/Users/andrecarvalho/venv/python-masterclass-remaster-shared/current-python-masterclass-remaster/ProgramFlow/forloops.py",
+		"/Users/andrecarvalho/venv/python-masterclass-remaster-shared/current-python-masterclass-remaster/ProgramFlow/whileloop.py",
+		"/Users/andrecarvalho/venv/python-masterclass-remaster-shared/current-python-masterclass-remaster/ProgramFlow/truefalse.py",
+		"/Users/andrecarvalho/venv/python-masterclass-remaster-shared/current-python-masterclass-remaster/ProgramFlow/timestable.py",
+		"/Users/andrecarvalho/venv/python-masterclass-remaster-shared/current-python-masterclass-remaster/ProgramFlow/shopping.py",
+		"/Users/andrecarvalho/venv/python-masterclass-remaster-shared/current-python-masterclass-remaster/ProgramFlow/searching.py",
+		"/Users/andrecarvalho/venv/python-masterclass-remaster-shared/current-python-masterclass-remaster/ProgramFlow/adventure.py",
+		"/Users/andrecarvalho/venv/python-masterclass-remaster-shared/current-python-masterclass-remaster/ProgramFlow/ai.py",
+		"/Users/andrecarvalho/venv/python-masterclass-remaster-shared/current-python-masterclass-remaster/ProgramFlow/blocks.py",
+		"/Users/andrecarvalho/venv/python-masterclass-remaster-shared/current-python-masterclass-remaster/ProgramFlow/challengerblocks.py",
+		"/Users/andrecarvalho/workspace/git/machine_learning_examples/nlp_class/electronics/negative.review",
+		"/Users/andrecarvalho/workspace/valendo/projectnlp/book.unlabeled",
+		"/Users/andrecarvalho/workspace/valendo/projectnlp/sentiment.py",
+		"/Users/andrecarvalho/venv/python-masterclass-remaster-shared/current-python-masterclass-remaster/HelloWorld/ranges.py",
+		"/Users/andrecarvalho/workspace/valendo/projectnlp/projectnlpv1.py",
+		"/Users/andrecarvalho/workspace/valendo/projectnlp/projectnlp.py",
+		"/Users/andrecarvalho/workspace/valendo/projectnlp/lsa.py",
+		"/Users/andrecarvalho/workspace/CMM/terminal_project/project1/main.cpp"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "proj1.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 306.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
